@@ -86,7 +86,6 @@ The following types are supported:
 * Compressed + Sparse
 * Hard Links: Not supported, skipped
 * Reparse Point: Not supported, skipped
-* Encrypted + Compressed: Not supported, skipped
 * Encrypted + Sparse: Not supported, skipped
 * Compressed Stream: Not supported, skipped
 * Sparse Stream: Not supported, skipped
